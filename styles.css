@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ballet&family=Playball&display=swap');
+
+body{
+background-image: url(./background\ imagee.jpg);
+background-size:cover ;
+color:#000000; 
+text-align: center;
+}
+.container{
+text-align: center;
+margin-left: 268px;
+}
+.checkbox{
+  text-align: center;
+margin-left: -320px;
+}
+.a{
+  margin-left: -320px;
+}
